@@ -15,6 +15,7 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 title {
+    display: block;
     color: #f8a560;
     font-family:'Lucida Handwriting';
 }
