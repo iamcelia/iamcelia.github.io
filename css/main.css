@@ -1,13 +1,14 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background: url(https://vectr.com/thisiscelia/aos6ciggl.png?width=2560&height=1600&select=d5RuLFkxb0) center center;
+    background: url(https://vectr.com/thisiscelia/aos6ciggl.png?width=2560&height=1600&select=aos6cigglpage0) center center;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Microsoft JhengHei';
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    color: #f8a560;
 }
 nav ul li, footer ul li {
     display: inline;
