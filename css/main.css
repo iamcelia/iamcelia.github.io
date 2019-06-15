@@ -14,10 +14,7 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-title {
-    color: #f8a560;
-    font-family:'Lucida Handwriting';
-}
+
 a {
     text-decoration: none;
     color: #ff9892;
