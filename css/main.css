@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background: url(https://vectr.com/thisiscelia/aos6ciggl.png?width=2560&height=1600&select=aos6cigglpage0) center center;
+   
 }
 nav ul, footer ul {
     font-family:'Microsoft JhengHei';
@@ -14,11 +14,7 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-title {
-    display: inline;
-    color: #f8a560;
-    font-family:'Lucida Handwriting';
-}
+
 a {
     text-decoration: none;
     color: #ff9892;
